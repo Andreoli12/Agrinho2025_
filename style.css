@@ -4,5 +4,8 @@
 }
 
 .imagem-principal {
-    padding: 100px;
+     width: 100%;
+    height: 606px;
+    padding: 40px;
+    margin: 0 auto;
 }
