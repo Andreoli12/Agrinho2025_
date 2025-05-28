@@ -1,7 +1,7 @@
 .cabecalho{
     background-color: black;
-    height: 300px;
-    lighting-color: aliceblue;
+    height: 100px;
+    align = "center"
 }
 
 .titulo principal {
