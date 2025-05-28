@@ -5,8 +5,14 @@
 
 .titulo-principal {
     color: white;
+    text-align: center;
 }
 
 .descricao-titulo {
     color: white;
+    text-align: center;
+}
+
+.imagem-principal {
+    align-items: center;
 }
