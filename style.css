@@ -11,8 +11,8 @@
     height: 450px;
     padding: 30px;
     margin: 1px;
-    border-radius: 50%;
-    border-style: double;
+    border-radius: 10px;
+   border-color: #547e46;
 }
 
 .cabecalho {
