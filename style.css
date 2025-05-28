@@ -25,6 +25,7 @@
   font-weight: 800;
   font-style: normal;
   margin: 0 auto;
+  justify-content: center;
 }
 
 .descricao-titulo {
