@@ -1,6 +1,7 @@
 .cabecalho{
     background-color: black;
     
+    
 }
 
 .titulo-principal {
@@ -14,5 +15,5 @@
 }
 
 .imagem-principal {
-    text-align: center;
+    align-self: center;
 }
