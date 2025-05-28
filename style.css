@@ -15,7 +15,7 @@
     width: 100%;
     height: 606px;
     margin: 1px;
-    
+    background-image: linear-gradient(#547e46, #ffffff);
 }
 
 .titulo-principal {
@@ -36,6 +36,3 @@
   margin: 0;
 }
 
-.corpo {
-    background-image: linear-gradient(#547e46, #ffffff);
-}
