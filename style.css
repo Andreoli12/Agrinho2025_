@@ -1,19 +1,4 @@
-.cabecalho{
-    background-color: black;
-    
-    
-}
-
-.titulo-principal {
-    color: white;
+.conteudo {
     text-align: center;
-}
-
-.descricao-titulo {
-    color: white;
-    text-align: center;
-}
-
-.imagem-principal {
-    height: 100px;
+    
 }
