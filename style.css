@@ -23,6 +23,7 @@
   font-optical-sizing: auto;
   font-weight: 800;
   font-style: normal;
+  margin: 0;
 }
 
 .descricao-titulo {
@@ -31,5 +32,6 @@
   font-weight: 400;
   font-style: normal;
   color: white;
+  margin: 0;
 }
 
