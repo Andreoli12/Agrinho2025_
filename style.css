@@ -40,5 +40,9 @@
 }
 
 .rodape {
-  padding: 10px;
+   width: 95%;
+    height: 450px;
+    padding: 30px;
+    margin: 1px;
+    border-radius: 10%;
 }
