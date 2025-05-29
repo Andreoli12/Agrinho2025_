@@ -39,6 +39,7 @@
   margin: 0;
 }
 
-.rodape {
-  height: 100px;
+.rodape-imagem {
+ text-align: center;
+ padding: 10p;
 }
