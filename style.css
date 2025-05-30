@@ -41,7 +41,7 @@
 
 .img-rodape {
   padding: 24px 0;
-  max-height: auto;
+  min-height: 5px;
   background-color: #547e46;
 }
 
