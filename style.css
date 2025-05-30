@@ -38,12 +38,6 @@
   color: white;
   margin: 0;
 }
-footer{
-  background-color: #547e46;
-  color: #ffffff;
-  text-align: center;
-  padding: 10px;
-}
 
 .imagem-rodape {
   text-align: center;
@@ -51,6 +45,13 @@ footer{
   width: 5px;
   height: 0px;
   background-color: #547e46;
+}
+
+footer{
+  background-color: #547e46;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px;
 }
 
 .navegacao {
