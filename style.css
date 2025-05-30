@@ -39,10 +39,11 @@
   margin: 0;
 }
 footer{
-  background-color: #64cd64;
+  background-color: #547e46;
   color: #ffffff;
   text-align: center;
   padding: 10px;
+  background-image: linear-gradient(#ffff, #547e46);
 }
 
 .rodape {
@@ -50,5 +51,4 @@ footer{
   padding: 10px;
   width: 5px;
   height: 0px;
-  background-image: linear-gradient(#ffff, #547e46);
 }
