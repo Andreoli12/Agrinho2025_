@@ -1,3 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
 .conteudo {
     text-align: center;
     justify-content: center;
@@ -16,7 +23,6 @@
     padding: 30px;
     margin: 1px;
     border-radius: 10%;
-    align-items: center;
 }
 
 .cabecalho {
@@ -34,7 +40,6 @@
   font-weight: 800;
   font-style: normal;
   font-size: 35px;
-  text-align: center;
 }
 
 .descricao-titulo {
@@ -45,7 +50,6 @@
   color: white;
   margin: 0;
   font-size: 18px;
-  text-align: center;
 }
 
 .img-rodape {
@@ -77,8 +81,6 @@
   transition: background-color 0.3s ease;
   text-decoration: none;
   margin-bottom: 30px;
-  text-align: center;
-  align-items: center;
 }
 
 .botao:hover {
