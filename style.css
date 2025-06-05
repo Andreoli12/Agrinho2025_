@@ -45,6 +45,7 @@
 }
 
 .imagem-rodape {
+  height: 150px;
   background: linear-gradient(to top, #547e46, #ffff);
   color: white;
   display: flex;
