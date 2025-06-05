@@ -42,6 +42,7 @@
 .img-rodape {
   padding: 27px 7;
   height: 83px;
+  margin: 0px 0;
 }
 
 
@@ -64,5 +65,4 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin: 0px;
 }
