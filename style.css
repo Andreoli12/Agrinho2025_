@@ -3,7 +3,7 @@
     justify-content: center;
     display: flex;
     margin: 5px;
-
+    flex: 1;
 }
 
 .imagem-principal {
@@ -46,6 +46,7 @@
 
 .imagem-rodape {
   background: linear-gradient(to top, #67b64d, #ffffff);
+
 }
 
 
