@@ -42,7 +42,6 @@
 .img-rodape {
   padding: 27px 7;
   height: 83px;
-  margin: 0px 0;
 }
 
 
@@ -59,10 +58,8 @@
 }
 
 footer {
-  height: 150px;
-  background: linear-gradient(to top, #547e46, #ffff);
-  color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  background-color: #547e46;
+  color: #ffffff;
+  text-align: center;
+  padding: 5px;
 }
