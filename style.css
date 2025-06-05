@@ -44,6 +44,14 @@
   height: 83px;
 }
 
+.imagem-rodape {
+  background: linear-gradient(to top, #547e46, #ffff);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .navegacao {
   font-family: "Roboto Mono", monospace;
   font-optical-sizing: auto;
@@ -57,10 +65,8 @@
 }
 
 footer {
-  height: 150px;
-  background: linear-gradient(to top, #547e46, #ffff);
-  color: white;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+  background-color: #547e46;
+  color: #ffffff;
+  text-align: center;
+  padding: 5px;
 }
