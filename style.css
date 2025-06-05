@@ -61,8 +61,5 @@ footer {
   color: #ffffff;
   text-align: center;
   padding: 5px;
-}
-
-body {
-  background-image: -moz-radial-gradient(#547e46, #ffffff);
+  background-image: linear-gradient(to top, #ffff, #547e46);
 }
