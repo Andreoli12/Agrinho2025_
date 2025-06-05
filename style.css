@@ -10,6 +10,7 @@
     justify-content: center;
     display: flex;
     margin: 5px;
+     box-shadow: 0 10px 30px rgba( 0, 0, 0, 0.15);
 }
 
 .corpo-inteiro {
@@ -108,7 +109,7 @@ footer {
   flex: 1;
   margin: 5px;
   font-size: 25px;
-  
+   box-shadow: 0 10px 30px rgba( 0, 0, 0, 0.15);
 }
 
 .texto-agricultura {
