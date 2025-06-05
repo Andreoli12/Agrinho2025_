@@ -44,6 +44,10 @@
   height: 83px;
 }
 
+.imagem-rodape {
+  background: linear-gradient(to top, #67b64d, #ffffff);
+}
+
 
 .navegacao {
   font-family: "Roboto Mono", monospace;
