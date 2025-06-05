@@ -73,6 +73,7 @@
   cursor: pointer;
   transition: background-color 0.3s ease;
   text-decoration: none;
+  margin-bottom: 5px;
 }
 
 .botao:hover {
