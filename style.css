@@ -3,7 +3,10 @@
     justify-content: center;
     display: flex;
     margin: 5px;
-    flex: 1;
+}
+
+.corpo-inteiro {
+  flex: 1;
     padding: 20px;
 }
 
