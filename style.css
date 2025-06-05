@@ -32,6 +32,7 @@
   font-optical-sizing: auto;
   font-weight: 800;
   font-style: normal;
+  font-size: 26px;
 }
 
 .descricao-titulo {
@@ -41,6 +42,7 @@
   font-style: normal;
   color: white;
   margin: 0;
+  font-size: 18px;
 }
 
 .img-rodape {
