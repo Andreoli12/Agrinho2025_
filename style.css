@@ -57,12 +57,10 @@
 }
 
 footer {
-  background-color: #547e46;
-  color: #ffffff;
-  text-align: center;
-  padding: 5px;
-}
-
-body {
-  background-image: linear-gradient(to top, #ffff, #547e46);
+  height: 150px;
+  background: linear-gradient(to top, #ffff, #547e46);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
