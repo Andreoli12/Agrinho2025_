@@ -84,3 +84,10 @@ footer {
   text-align: center;
   padding: 5px;
 }
+
+.titulo-texto {
+  color: #547e46;
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
