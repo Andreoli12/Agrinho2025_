@@ -58,7 +58,7 @@
 
 footer {
   height: 150px;
-  background: linear-gradient(to top, #ffff, #547e46);
+  background: linear-gradient(to top, #547e46, #ffff);
   color: white;
   display: flex;
   align-items: center;
