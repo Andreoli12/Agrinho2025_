@@ -43,6 +43,7 @@
   padding: 24px 0;
   min-height: 5px;
   background-color: #547e46;
+  background-color: linear-gradient(#ffff, #547e46);
 }
 
 .navegacao {
