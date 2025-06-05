@@ -1,16 +1,8 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-
 .conteudo {
     text-align: center;
     justify-content: center;
     display: flex;
     margin: 5px;
-     box-shadow: 0 10px 30px #547e46;
 }
 
 .corpo-inteiro {
@@ -24,7 +16,6 @@
     padding: 30px;
     margin: 5px;
     border-radius: 10%;
-    right: 1em;
 }
 
 .cabecalho {
@@ -36,7 +27,7 @@
 }
 
 .titulo-principal {
-    color: #ffff;
+  color: #ffff;
   font-family: "Ancizar Serif", serif;
   font-optical-sizing: auto;
   font-weight: 800;
@@ -117,8 +108,4 @@ footer {
   padding: 50px;
   font-size: 20px;
   text-align: left
-  font-family: "Roboto Mono", monospace;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
 }
