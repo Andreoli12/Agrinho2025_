@@ -72,6 +72,10 @@
   transition: background-color 0.3s ease;
 }
 
+.botao:hover {
+  background-color: #1c3b20;
+}
+
 footer {
   background-color: #325d38;
   color: #ffffff;
