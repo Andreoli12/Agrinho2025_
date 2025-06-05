@@ -96,10 +96,11 @@ footer {
   padding: 50px;
   flex: 1;
   margin: 5px;
+  font-size: 25px;
 }
 
 .texto-agricultura {
   padding: 50px;
-  font-size: 32px;
+  font-size: 20px;
   text-align: left
 }
