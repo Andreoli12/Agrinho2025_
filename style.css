@@ -100,7 +100,7 @@ footer {
 .corpo-do-site {
   padding: 50px;
   flex: 1;
-  margin: 5px;
+  margin: 10px;
   font-size: 25px;
   gap: 20px;
 }
