@@ -110,12 +110,6 @@ footer {
   text-align: left
 }
 
-.texto-rev-neolitica {
-  padding: 50px;
-  font-size: 20px;
-  text-align: left
-}
-
 .texto-um {
   flex: 1;
   padding: 20px;
@@ -123,5 +117,5 @@ footer {
   border: 1px solid #e0f7d9;
   border-radius: 8px;
   margin: 20px 0;
-  box-shadow: 8px 20px 25px rgba(0, 0, 0, 0.1);
+  box-shadow: 8px 20px 25px rgba(0, 0, 0, 0.15);
 }
