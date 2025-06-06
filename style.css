@@ -104,7 +104,13 @@ footer {
   font-size: 25px;
 }
 
-.texto-agricultura {
+.descricao-tema {
+  padding: 50px;
+  font-size: 20px;
+  text-align: left
+}
+
+.texto-rev-neolitica {
   padding: 50px;
   font-size: 20px;
   text-align: left
