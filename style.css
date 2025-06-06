@@ -129,3 +129,33 @@ footer {
   margin: 20px 0;
   box-shadow: 10px 20px 25px rgba(56, 59, 56, 0.727);
 }
+
+.texto-tres {
+  flex: 1;
+  padding: 20px;
+  background-color: #e0f7d9;
+  border: 1px solid #67b64d;
+  border-radius: 8px;
+  margin: 20px 0;
+  box-shadow: 10px 20px 25px rgba(56, 59, 56, 0.727);
+}
+
+.texto-quatro {
+  flex: 1;
+  padding: 20px;
+  background-color: #e0f7d9;
+  border: 1px solid #67b64d;
+  border-radius: 8px;
+  margin: 20px 0;
+  box-shadow: 10px 20px 25px rgba(56, 59, 56, 0.727);
+}
+
+.texto-cinco {
+  flex: 1;
+  padding: 20px;
+  background-color: #e0f7d9;
+  border: 1px solid #67b64d;
+  border-radius: 8px;
+  margin: 20px 0;
+  box-shadow: 10px 20px 25px rgba(56, 59, 56, 0.727);
+}
