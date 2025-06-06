@@ -117,5 +117,5 @@ footer {
 }
 
 .texto-um {
-  box-shadow: 20px #547e46;
+  box-sizing: content-box;
 }
