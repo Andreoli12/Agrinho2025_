@@ -102,6 +102,7 @@ footer {
   flex: 1;
   margin: 5px;
   font-size: 25px;
+  gap: 20px;
 }
 
 .descricao-tema {
